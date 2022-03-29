@@ -1,4 +1,4 @@
-İZİBİZ ENTEGRASYON TEST PROJESİ
+Doğan E-Dönüşüm ENTEGRASYON TEST PROJESİ
 
 Bu proje Authentication ,e-Fatura, e-Arşiv,e-İrsaliye, Müstahsil ve Smm  ürünlerinin izibiz  web servis metodlarının testleri örnek olması için yazılmıştır.
 Yalnızca test web servis sisteminde çalışmaktadır.
